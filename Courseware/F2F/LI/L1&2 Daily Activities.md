@@ -1,30 +1,5 @@
 # Daily Activities
 
-## Question practice
-
-- Did Kathy take a bus this morning?
-- Do Kathy and Diane both paint?
-- Do many people drive cars?
-- Do many people study painting?
-- Does Kathy ever take a bus?
-- How long is the interview scheduled to last?
-- How much longer is she going to be at home.
-- What did they buy?
-- What is Diane doing right now?
-- What is Diane going to do this evening?
-- What is the interview going to be about?
-- What time did she get up?
-- When did she leave for work?
-- When is the interview going to start?
-- Who ate breakfast this morning.
-- Who didn't eat breakfast this morning?
-- Who didn't take a bus this morning?
-- Who is going to interview someone this evening?
-- Who isn't going to interview someone this evening?
-- Who usually takes a bus?
-
-## Dictations
-
 ```markdown
 Kathy's Schedule
 
@@ -59,6 +34,29 @@ Let's assume that today is wednesday, and it's 2:00 in the afternoon. Kathy took
 Diane drove the car this morning. Now Diane is back at home,
 she's cleaning the house. This evening Diane is going to attend her art class.
 ```
+
+## Question practice
+
+- Did Kathy take a bus this morning?
+- Do Kathy and Diane both paint?
+- Do many people drive cars?
+- Do many people study painting?
+- Does Kathy ever take a bus?
+- How long is the interview scheduled to last?
+- How much longer is she going to be at home.
+- What did they buy?
+- What is Diane doing right now?
+- What is Diane going to do this evening?
+- What is the interview going to be about?
+- What time did she get up?
+- When did she leave for work?
+- When is the interview going to start?
+- Who ate breakfast this morning.
+- Who didn't eat breakfast this morning?
+- Who didn't take a bus this morning?
+- Who is going to interview someone this evening?
+- Who isn't going to interview someone this evening?
+- Who usually takes a bus?
 
 ## Focus Exercises
 

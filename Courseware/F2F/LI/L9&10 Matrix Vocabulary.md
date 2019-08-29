@@ -1,7 +1,6 @@
 # Matrix Vocabulary
 
-```markdown
-Things to Eat
+## Things to Eat
 
 These are things to eat.
 Spaghetti. Here is some spaghetii.
@@ -15,7 +14,9 @@ Cake. Here is a piece of chocolate cake.
 Chocolate cake is a kind of dessert.
 Chocolate cake is fattening. Don't eat too much.
 
-Things to Drink
+---
+
+## Things to Drink
 
 These are things to drink.
 Milk. This is a glass of milk.
@@ -27,7 +28,8 @@ Tea. Many people drink tea.
 Tea is popular in many parts of the world.
 Water. This is a glass of cold water.
 Cold water tastes good on a hot day.
-```
+
+---
 
 ## Question practice
 

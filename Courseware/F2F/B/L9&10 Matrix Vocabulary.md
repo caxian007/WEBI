@@ -8,7 +8,7 @@ This is the season of birth and growing.
 Summer. Summer is the hottest time of a year.
 In summer the days are long and the nights are short.
 Summer is the best time to go swimming.
-Autumn, In autumn the leaves begain to fall.
+Autumn, In autumn the leaves begin to fall.
 This is the season when leaves turn many colors.
 Another name for autumn is fall.
 This is the season between summer and winter.

@@ -28,11 +28,11 @@ Are you a teacher?
 Yes, I am.
 What do you teach?
 I teach science an math.
-Where do you teach.
+Where do you teach?
 I teach at a small college.
 How about you? What do you do?
-I'm a write.
-That's intersting. What do you write?
+I'm a writer.
+That's interesting. What do you write?
 I write stories. Now I'm writing about you.
 Is that okay?
 Sure, I don't mind. Good luck.

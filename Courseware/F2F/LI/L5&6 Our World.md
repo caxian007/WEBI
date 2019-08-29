@@ -1,7 +1,6 @@
 # Our World
 
-```markdown
-Our Planet, Earth
+## Our Planet, Earth
 
 This is our planet, Earth.
 It is one of eight planets that travl around our sun. Earth is the only planet where lift exists.
@@ -18,7 +17,9 @@ If we were father to the sun, it would be too clod for us. Our planet would free
 As you can see, the balance in nature is very important.
 In nature, small changes can make big differences.
 
-Air, Water and Pollution
+---
+
+## Air, Water and Pollution
 
 Besides energy from the sun, we also need water and air.
 Without water and air, there would be no life.
@@ -42,7 +43,8 @@ The mountains, the rivers, the forests, and all of nature are a part of us.
 This beautiful planet of ours is our home.
 To take care of the world is to take care of ourselves.
 Let's work together to keep our world alive and well.
-```
+
+---
 
 ## Question practice
 

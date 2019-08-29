@@ -25,12 +25,11 @@ He eats breakfast at 7:15.
 He usually drives his car to work.
 It takes an hour for him to get to the post office.
 He comes home around 6:30 in the evening.
-He eats dinner with his family from 6:45 and 7:15.
+He eats dinner with his family between 6:45 and 7:15.
 He usually reads the newspaper after dinner.
-After reads the newspaper he watches TV.
-If the TV isn't intersting, he reads a book or listens to misic.
+After reading the newspaper he watches TV.
+If the TV isn't interesting, he reads a book or listens to misic.
 He goes to bed at 11:00.
-
 
 ---
 

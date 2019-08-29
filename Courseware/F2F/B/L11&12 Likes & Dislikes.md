@@ -17,7 +17,7 @@ I like most kinds of food.
 Okay. How about fish?
 Do you like fish?
 Not so much.
-I perger chicken.
+I preger chicken.
 How about beef?
 Do you like beef?
 Yes, I do.
@@ -47,13 +47,13 @@ Sure, I like sports.
 What is your favorite sport?
 My favorite sport is American football.
 Do you play it?
-No, I didn't. I just watch it.
+No, I don't. I just watch it.
 What sports do you do?
 I play tennis, and I can ski.
 Do you play golf?
 No, I don't.
 I don't know how to play golf. But I'd like to learn.
-IS golf popular in you country?
+IS golf a popular sport in your country?
 Yes, I guess it is.
 Lots of people watch it on TV.
 But I think most people don't play it.

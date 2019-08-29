@@ -2,8 +2,7 @@
 
 ## DynEd City
 
-```markdown
-Spatial Locations
+### Spatial Locations
 
 City park. The park is on the northwest corner of High Street and First Avenue.
 Hotel. The city's best hotel is on High Street, across from the art museum.
@@ -24,7 +23,9 @@ Art musuem. The art museum is on Hign Street, directly across from the hotel.
 Department store. This department store is around the corner from the hotel.
 This is High Street. High Street runs east-west.
 
-Location Names
+---
+
+### Location Names
 
 Welcome to DynEd city.
 The DynEd City hotal is a 4-star hotel.
@@ -45,7 +46,8 @@ This is the intersection of High Street and First Avenue.
 There are two ATMs in this bank.
 This restaurant has great food.
 People sometimes go to movie theaters to watch movies.
-```
+
+---
 
 ## Question practice
 

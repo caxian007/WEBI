@@ -1,7 +1,6 @@
 # Biography
 
-```markdown
-Young Einstein
+## Young Einstein
 
 Einstein was one of greatest scientists of all time.
 He was born in Germany more than a hundred years ago, in 1879.
@@ -22,7 +21,9 @@ In one paper, he showed that mass and energy are related.
 He discovered the famous equation: E equals m c squared.
 He also showed that no particle can travel faster than the speed of light.
 
-Einstein's Later Years
+---
+
+## Einstein's Later Years
 
 He became a professor in Berlin in 1914.
 Shortly after that, he left his first wife.
@@ -41,7 +42,8 @@ People who knew him said he was a great man.
 He always wanted to understand the nature of our universe.
 During the last year of his life, Einstein continued to study physics.
 He died in 1955. at the age of seventy-six.
-```
+
+---
 
 ## Question practice
 

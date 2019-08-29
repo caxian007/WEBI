@@ -1,7 +1,6 @@
 # Planning Ahead
 
-```markdown
-Departure
+## Departure
 
 Next week Max is going on a business trip.
 He's going to fly to London from San Francisco.
@@ -23,7 +22,9 @@ It's always nice to travel and see the world, but Max misses his family.
 Whenever he is always from home, he looks forward to comming back.
 As the saying goes: There's no place like home.
 
-Choices
+---
+
+## Choices
 
 When he lands in London, he'll claim his baggage and go through customs.
 Then he'll have to decide how to get to his hotel.
@@ -39,7 +40,8 @@ Once he arrives at his hotel, he'll check in.
 Hotels are expensive in London, but weekend rates are a bit less.
 Sometimes it's possible to get a cheaper rate if you stay for several days.
 Max has a good travel agent, so he's going to get a 20% discount.
-```
+
+---
 
 ## Question practice
 

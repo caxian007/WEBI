@@ -39,4 +39,32 @@ Sure, I don't mind. Good luck.
 
 ---
 
+## Sara Scott
+
+This is Sara Scott.
+Her first name is Sara.
+Her last name is Scott.
+She's twenty eight years old.
+Sara is a doctor.
+She's a good doctor, and she works hard.
+She has a high salary.
+Sara isn't married, but she has a boufriend.
+Her boyfriend is a pilot.
+She lives in an expensive apartment.
+Her apartment is large and comfortable.
+She lives with her younger sister, Chris.
+Chris is a ballet dancer.
+She's twenty four years old.
+She loves to dance, but she has to practice hard every day.
+She wants to be a great dancer someday.
+Excuse me, but may I ask you a question?
+Sure. What is it?
+Are your a teacher?
+No, I'm not.
+I'm not a teacher. I'm a doctor.
+Thank you.
+You're welcome.
+
+---
+
 ## Question practice

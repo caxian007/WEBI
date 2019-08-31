@@ -60,4 +60,33 @@ But I think most people don't play it.
 
 ---
 
+## What Can You Do
+
+Max, can you play the piano?
+A little. I can play a little.
+Can you play the violin?
+No, not at all.
+I can't play the violin at all.
+Can you play tennis?
+Yes, I can.
+I play tennis fairly well.
+Can you sing?
+No, I can't.
+I'm a terrible singer.
+Nobody likes to listen to me sing.
+Can you play chess?
+Yes, I can. But I'm not very good.
+Do you perfer mental games, such as chess or cards, or physical games, such as football or tennis?
+I like both kinds of games.
+Do you know Pierre?
+Yes, I do.
+He's from France.
+Why do you ask?
+Pierre is a very good chess player.
+He can beat me easily.
+But I can beat him when we play tennis.
+He isn't very good at playing tennis.
+
+---
+
 ## Question practice

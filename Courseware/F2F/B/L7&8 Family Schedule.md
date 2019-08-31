@@ -33,6 +33,20 @@ He goes to bed at 11:00.
 
 ---
 
+## Sandra's Schedule
+
+Sandra is a music teacher. She's a piano teacher.
+Her schedule changes each day.
+She teachers piano three days a week: Mondays, Wednesdays, and Thursdays.
+She teaches for two hours on Mondays, from 2:30 to 4:30.
+On Wednesdays, she teaches form 3:00 until 6:00.
+On Thursdays, she teaches in the evening from 7:30 until 10:00.
+She teaches at her home.
+Some of her students are very good.
+Some of her students are not very good.
+
+---
+
 ## Question practice
 
 - How long does it take to get to work?

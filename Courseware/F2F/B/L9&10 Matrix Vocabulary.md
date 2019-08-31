@@ -35,6 +35,24 @@ We can see many stars in the sky at night.
 
 ---
 
+## Weather
+
+Weather conditions. Here are four types of weather: sunny, cloudy, rainy, and snowy.
+Sunny. The sun is shining.
+Sunny days are warm.
+This kind of weather is good for a picnic.
+Cloudy. The sun is behind the clouds.
+Cloudy days are usually cool.
+A cloudy sky is sometimes beautiful. Look at the sunset.
+Rainy. It's raining.
+When it's raining you need an umbrella.
+Rainy weather is bad for picnics.
+Snowy. Snowy weather is cold.
+When it's snowing, you need a warm coat.
+The air is cold and quiet. Everything is turning white.
+
+---
+
 ## Question practice
 
 - When does the sun come up?

@@ -1,13 +1,12 @@
-# Locations
+# DynEd City
 
-## DynEd City
+## Spatial Locations
 
-### Spatial Locations
-
+These are the four directions: NORTH, EAST, SOUTH, and WEST.
 City park. The park is on the northwest corner of High Street and First Avenue.
 Hotel. The city's best hotel is on High Street, across from the art museum.
 Cafe. There is a cafe on the corner of High Street and First Avenue, next to the art museum.
-Police station. There is a police station on Hign Street, west of First Avenue.
+Police station. There is a police station on High Street, west of First Avenue.
 Movie theater. The movie theater is across the street from the restaurant.
 This is First Avenue. First Avenue runs north-south.
 Bank. There is a bank on the corner of First Avenue and High Street, next door to the hotel.
@@ -25,7 +24,7 @@ This is High Street. High Street runs east-west.
 
 ---
 
-### Location Names
+## Location Names
 
 Welcome to DynEd city.
 The DynEd City hotal is a 4-star hotel.
@@ -46,6 +45,22 @@ This is the intersection of High Street and First Avenue.
 There are two ATMs in this bank.
 This restaurant has great food.
 People sometimes go to movie theaters to watch movies.
+
+---
+
+## Spatial Relations
+
+The stamp is near the envelope.
+The stamp in on the envelope.
+The stamp is under the envelope.
+The letter is inside the envelope.
+The letter is outside the envelope.
+The circle is inside the triangle.
+The triangle is inside the circle.
+The circle is in inside the square.
+The ciecle is to the left of the triangle.
+The square is to the left of the circle.
+The triangle and circle are side by side. The triangle is on the left, and the circle is on the right.
 
 ---
 

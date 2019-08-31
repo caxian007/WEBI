@@ -43,6 +43,29 @@ Max has a good travel agent, so he's going to get a 20% discount.
 
 ---
 
+## Meeting a Friend
+
+After he checks in to his room, Max is going to telephone a friend.
+One of his best friends, Jone, lives in Brighton.
+Brighton is about an hour south of London by train.
+Max's friend, John, is a famous writer.
+Max is looking forward to seeing him.
+Brighton is north of London.
+Whenever they get together, they go out to dinner and talk about many things.
+It's always intersting to talk to John.
+Jone has an intersting mind.
+He is always thinking about new stories and new projects.
+Last year, for example, he wrote a story that appeared on television.
+It was a story about a man who lost his memory.
+Now he's working on a new story that will appear on television next year.
+John also knows a lot about wine.
+Whenever they have dinner together, Jone chooses a great bottle of wine.
+They have to be careful not to drink too much.
+When they finish eating, they both try to pay the bill.
+Sometimes Max pays. Sometimes John pays.
+
+---
+
 ## Question practice
 
 - Where is he going to fly to?

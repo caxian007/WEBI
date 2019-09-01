@@ -49,4 +49,21 @@ Here are the numbers 10 to 100.
 9. ninety
 10. one hundred
 
+---
+
+## Time Expressions
+
+Fifteen minutes is a quarter of an hour.
+Thirty minutes is half an hour.
+One hour is sixty minutes.
+It's eight o'clock.
+Eleven thirty.
+Seven twenty.
+It's ten fifteen.
+It's a quarter to ten.
+It's a half past three.
+
+
+---
+
 ## Question practice

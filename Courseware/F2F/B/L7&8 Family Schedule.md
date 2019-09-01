@@ -47,6 +47,28 @@ Some of her students are not very good.
 
 ---
 
+## Collette's Schedule
+
+Collette is a student.
+She goes to high school.
+She gets up every morning at 6:30.
+She eats breakfast with her family at 7:15.
+She leaves for school at 8:00.
+She goes to school by bus.
+It takes about twenty minutes to get to school
+Her school starts at 8:45.After school she usually comes home and practices the violin.
+She has a violin lesson once a week.
+Her lesson is at 4:30 on Tuesday afternoons.
+It's lasts for an hour.
+On other days, she comes home after school.
+She parctices the violin for about an hour.
+In the evenings, she studies.
+She does homework from 7:45 around 10:15.
+After finishing her homework she takes a bath.
+She usually goes to bed around 11:00.
+
+---
+
 ## Question practice
 
 - How long does it take to get to work?

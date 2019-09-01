@@ -23,7 +23,7 @@ Times of day. Here are the times of day: morning, afternoon, evening, and night.
 Morning. The day begins.
 This is when the sun rises and birds begin to sing.
 People get up and go to work in the morning.
-Afternoon. The sun is hign in the sky in the afternoon.
+Afternoon. The sun is high in the sky in the afternoon.
 Many people are at work in the afternoon.
 Afternoon is between midday and sunset.
 Evening. The sun goes down in the evening.
@@ -50,6 +50,22 @@ Rainy weather is bad for picnics.
 Snowy. Snowy weather is cold.
 When it's snowing, you need a warm coat.
 The air is cold and quiet. Everything is turning white.
+
+---
+
+## Time of Life
+
+Times of life. These are the times of life: birth, childhood, adulthood, and old age.
+Birth. Our lives begin at birth.
+Babies are small and cute.
+Childhood. Children go to school.
+When we are children we go to school.
+Childhood is when we learn to read and write.
+Adulthood. Most adults get married and have children.
+Many men and woman work hard and have a career.
+Old age. This is a good time for hobbies and other interests.
+These are the last years of our lives.
+Old people have lots of experience.
 
 ---
 

@@ -67,4 +67,24 @@ You're welcome.
 
 ---
 
+## Henry Thornton
+
+This is Henry Thornton.
+His first name is Henry. H-E-N-R-Y.
+His family name is Thronton, T-H-O-R-N-O-N.
+He's thirty-five years old.
+Henry is a businessman.
+He doesn't work hard, but he has lots of money.
+His parents are rich.
+He has a large house. It's a very expensive house.
+Henry isn't married, but he is in love with somebody.
+He likes a woman named Chris.
+She is a ballet dancer.
+Unfortunately, she doesn't like him.
+In fact, Henry isn't very popular with woman.
+Excuse me, but may I ask you a question?
+Sorry, not right now. I'm busy.
+
+---
+
 ## Question practice

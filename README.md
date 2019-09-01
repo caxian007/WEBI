@@ -23,11 +23,13 @@
   - Bob's Schedule
   - Sandra's Schedule
   - Collette's Schedule
+  - John's Schedule
 - Matrix Vocabulary
   - The Seasons
   - The Times of Day
   - Weather
   - Time of Life
+  - Types of People
 - Likes & Dislikes
   - A Survey: Food
   - A Survey: Sports

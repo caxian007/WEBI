@@ -69,6 +69,22 @@ Old people have lots of experience.
 
 ---
 
+## Types of People
+
+People. Here are some types of people.
+Children. Here are two children, a boy and a girl.
+This child is a boy, and this child is a girl.
+The boy has a balloon, but the little girl doesn't.
+Two men. This man is tall, and this man is short.
+The man on the left is thin, and the man on the right is fat.
+Old man. This old man has grey hair.
+This man is very old. He is eighty-six years old.
+This old man has a long grey beard.
+Young woman. She is playing a violin.
+This young woman is a violinist.
+
+---
+
 ## Question practice
 
 - When does the sun come up?
